@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TemplateArqDDD.Infraestructura.Interface/1.0.0": {
+        "dependencies": {
+          "TemplateArqDDD.Dominio.Entidad": "1.0.0"
+        },
+        "runtime": {
+          "TemplateArqDDD.Infraestructura.Interface.dll": {}
+        }
+      },
+      "TemplateArqDDD.Dominio.Entidad/1.0.0": {
+        "runtime": {
+          "TemplateArqDDD.Dominio.Entidad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemplateArqDDD.Infraestructura.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TemplateArqDDD.Dominio.Entidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

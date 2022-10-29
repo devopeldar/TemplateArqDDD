@@ -1,0 +1,12 @@
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\bin\Debug\net6.0\TemplateArqDDD.Transversal.Common.deps.json
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\bin\Debug\net6.0\TemplateArqDDD.Transversal.Common.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\bin\Debug\net6.0\TemplateArqDDD.Transversal.Common.pdb
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.AssemblyInfo.cs
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\refint\TemplateArqDDD.Transversal.Common.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.pdb
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\ref\TemplateArqDDD.Transversal.Common.dll

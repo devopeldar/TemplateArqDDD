@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CCwPQ4UfrXv0lC6J9r2NFDuMC8vepZWQPUhASff6W7d4e4Sz3mcLs3jA4Pt82YI6AiZXld+6ZIY7Vw0ahkqiDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Core\\TemplateArqDDD.Infraestructura.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luis\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\luis\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

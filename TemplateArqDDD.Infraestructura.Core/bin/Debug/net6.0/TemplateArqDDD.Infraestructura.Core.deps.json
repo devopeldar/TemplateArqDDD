@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TemplateArqDDD.Infraestructura.Core/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.0.123",
+          "TemplateArqDDD.Dominio.Entidad": "1.0.0",
+          "TemplateArqDDD.Infraestructura.Interface": "1.0.0",
+          "TemplateArqDDD.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "TemplateArqDDD.Infraestructura.Core.dll": {}
+        }
+      },
+      "Dapper/2.0.123": {
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.123.33578"
+          }
+        }
+      },
+      "FluentValidation/11.2.2": {
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.2.2.0"
+          }
+        }
+      },
+      "TemplateArqDDD.Dominio.Entidad/1.0.0": {
+        "runtime": {
+          "TemplateArqDDD.Dominio.Entidad.dll": {}
+        }
+      },
+      "TemplateArqDDD.Infraestructura.Interface/1.0.0": {
+        "dependencies": {
+          "TemplateArqDDD.Dominio.Entidad": "1.0.0"
+        },
+        "runtime": {
+          "TemplateArqDDD.Infraestructura.Interface.dll": {}
+        }
+      },
+      "TemplateArqDDD.Transversal.Common/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "11.2.2"
+        },
+        "runtime": {
+          "TemplateArqDDD.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemplateArqDDD.Infraestructura.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.0.123": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RDFF4rBLLmbpi6pwkY7q/M6UXHRJEOerplDGE5jwEkP/JGJnBauAClYavNKJPW1yOTWRPIyfj4is3EaJxQXILQ==",
+      "path": "dapper/2.0.123",
+      "hashPath": "dapper.2.0.123.nupkg.sha512"
+    },
+    "FluentValidation/11.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5QEte2BUZZF6Sezeekr7Zu1THfgpxU7pmuL2SjIrajuGMah+pxPGiRiLtw+x/tSUSSVmcv9LrUe41lKu4l0n4A==",
+      "path": "fluentvalidation/11.2.2",
+      "hashPath": "fluentvalidation.11.2.2.nupkg.sha512"
+    },
+    "TemplateArqDDD.Dominio.Entidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TemplateArqDDD.Infraestructura.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TemplateArqDDD.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

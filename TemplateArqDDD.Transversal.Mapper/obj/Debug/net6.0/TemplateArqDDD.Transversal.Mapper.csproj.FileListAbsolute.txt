@@ -1,0 +1,17 @@
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\bin\Debug\net6.0\TemplateArqDDD.Transversal.Mapper.deps.json
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\bin\Debug\net6.0\TemplateArqDDD.Transversal.Mapper.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\bin\Debug\net6.0\TemplateArqDDD.Transversal.Mapper.pdb
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\bin\Debug\net6.0\TemplateArqDDD.Aplicacion.Entidad.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\bin\Debug\net6.0\TemplateArqDDD.Dominio.Entidad.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\bin\Debug\net6.0\TemplateArqDDD.Aplicacion.Entidad.pdb
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\bin\Debug\net6.0\TemplateArqDDD.Dominio.Entidad.pdb
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\obj\Debug\net6.0\TemplateArqDDD.Transversal.Mapper.csproj.AssemblyReference.cache
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\obj\Debug\net6.0\TemplateArqDDD.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\obj\Debug\net6.0\TemplateArqDDD.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\obj\Debug\net6.0\TemplateArqDDD.Transversal.Mapper.AssemblyInfo.cs
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\obj\Debug\net6.0\TemplateArqDDD.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\obj\Debug\net6.0\TemplateArqDDD.Transversal.Mapper.csproj.CopyComplete
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\obj\Debug\net6.0\TemplateArqDDD.Transversal.Mapper.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\obj\Debug\net6.0\refint\TemplateArqDDD.Transversal.Mapper.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\obj\Debug\net6.0\TemplateArqDDD.Transversal.Mapper.pdb
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Mapper\obj\Debug\net6.0\ref\TemplateArqDDD.Transversal.Mapper.dll

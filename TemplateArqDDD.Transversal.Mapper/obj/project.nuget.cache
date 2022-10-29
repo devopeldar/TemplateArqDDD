@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "anTusnif1EwnlkK5osBm6WYz+ZrX+yUhWydGnVpwZON7rmKhC//EF+EQfEuBbdzzv2mEx8S+Uvz0B8obSDM1gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Mapper\\TemplateArqDDD.Transversal.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luis\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\luis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

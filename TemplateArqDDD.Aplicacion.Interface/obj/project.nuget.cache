@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ROIU1RqCblaUx6uGzB+pXvOoR6w9BBqmYeo9/Ofwt7F8SSdW4dhFO8tSQ01CeHO4lrdMoVXuqgnhOxsJTJhZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luis\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

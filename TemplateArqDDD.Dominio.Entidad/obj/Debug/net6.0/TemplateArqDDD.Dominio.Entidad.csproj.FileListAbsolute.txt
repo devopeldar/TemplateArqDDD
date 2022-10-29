@@ -1,0 +1,12 @@
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Dominio.Entidad\bin\Debug\net6.0\TemplateArqDDD.Dominio.Entidad.deps.json
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Dominio.Entidad\bin\Debug\net6.0\TemplateArqDDD.Dominio.Entidad.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Dominio.Entidad\bin\Debug\net6.0\TemplateArqDDD.Dominio.Entidad.pdb
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Dominio.Entidad\obj\Debug\net6.0\TemplateArqDDD.Dominio.Entidad.csproj.AssemblyReference.cache
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Dominio.Entidad\obj\Debug\net6.0\TemplateArqDDD.Dominio.Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Dominio.Entidad\obj\Debug\net6.0\TemplateArqDDD.Dominio.Entidad.AssemblyInfoInputs.cache
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Dominio.Entidad\obj\Debug\net6.0\TemplateArqDDD.Dominio.Entidad.AssemblyInfo.cs
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Dominio.Entidad\obj\Debug\net6.0\TemplateArqDDD.Dominio.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Dominio.Entidad\obj\Debug\net6.0\TemplateArqDDD.Dominio.Entidad.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Dominio.Entidad\obj\Debug\net6.0\refint\TemplateArqDDD.Dominio.Entidad.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Dominio.Entidad\obj\Debug\net6.0\TemplateArqDDD.Dominio.Entidad.pdb
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Dominio.Entidad\obj\Debug\net6.0\ref\TemplateArqDDD.Dominio.Entidad.dll

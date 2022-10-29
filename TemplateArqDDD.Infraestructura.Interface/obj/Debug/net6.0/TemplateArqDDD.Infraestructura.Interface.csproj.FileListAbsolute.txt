@@ -1,0 +1,15 @@
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\bin\Debug\net6.0\TemplateArqDDD.Infraestructura.Interface.deps.json
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\bin\Debug\net6.0\TemplateArqDDD.Infraestructura.Interface.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\bin\Debug\net6.0\TemplateArqDDD.Infraestructura.Interface.pdb
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\bin\Debug\net6.0\TemplateArqDDD.Dominio.Entidad.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\bin\Debug\net6.0\TemplateArqDDD.Dominio.Entidad.pdb
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\obj\Debug\net6.0\TemplateArqDDD.Infraestructura.Interface.csproj.AssemblyReference.cache
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\obj\Debug\net6.0\TemplateArqDDD.Infraestructura.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\obj\Debug\net6.0\TemplateArqDDD.Infraestructura.Interface.AssemblyInfoInputs.cache
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\obj\Debug\net6.0\TemplateArqDDD.Infraestructura.Interface.AssemblyInfo.cs
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\obj\Debug\net6.0\TemplateArqDDD.Infraestructura.Interface.csproj.CoreCompileInputs.cache
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\obj\Debug\net6.0\TemplateArqDDD.Infraestructura.Interface.csproj.CopyComplete
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\obj\Debug\net6.0\TemplateArqDDD.Infraestructura.Interface.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\obj\Debug\net6.0\refint\TemplateArqDDD.Infraestructura.Interface.dll
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\obj\Debug\net6.0\TemplateArqDDD.Infraestructura.Interface.pdb
+C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Infraestructura.Interface\obj\Debug\net6.0\ref\TemplateArqDDD.Infraestructura.Interface.dll
