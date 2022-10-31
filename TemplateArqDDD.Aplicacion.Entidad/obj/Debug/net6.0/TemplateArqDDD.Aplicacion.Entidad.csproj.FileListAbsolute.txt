@@ -10,3 +10,15 @@ C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\obj\
 C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\obj\Debug\net6.0\refint\TemplateArqDDD.Aplicacion.Entidad.dll
 C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\obj\Debug\net6.0\TemplateArqDDD.Aplicacion.Entidad.pdb
 C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\obj\Debug\net6.0\ref\TemplateArqDDD.Aplicacion.Entidad.dll
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\bin\Debug\net6.0\TemplateArqDDD.Aplicacion.Entidad.deps.json
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\bin\Debug\net6.0\TemplateArqDDD.Aplicacion.Entidad.dll
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\bin\Debug\net6.0\ref\TemplateArqDDD.Aplicacion.Entidad.dll
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\bin\Debug\net6.0\TemplateArqDDD.Aplicacion.Entidad.pdb
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\obj\Debug\net6.0\TemplateArqDDD.Aplicacion.Entidad.csproj.AssemblyReference.cache
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\obj\Debug\net6.0\TemplateArqDDD.Aplicacion.Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\obj\Debug\net6.0\TemplateArqDDD.Aplicacion.Entidad.AssemblyInfoInputs.cache
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\obj\Debug\net6.0\TemplateArqDDD.Aplicacion.Entidad.AssemblyInfo.cs
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\obj\Debug\net6.0\TemplateArqDDD.Aplicacion.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\obj\Debug\net6.0\TemplateArqDDD.Aplicacion.Entidad.dll
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\obj\Debug\net6.0\ref\TemplateArqDDD.Aplicacion.Entidad.dll
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Aplicacion.Entidad\obj\Debug\net6.0\TemplateArqDDD.Aplicacion.Entidad.pdb

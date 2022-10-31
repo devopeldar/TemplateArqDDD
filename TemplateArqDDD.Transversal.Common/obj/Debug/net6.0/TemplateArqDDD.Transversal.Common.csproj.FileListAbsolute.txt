@@ -10,3 +10,15 @@ C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\
 C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\refint\TemplateArqDDD.Transversal.Common.dll
 C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.pdb
 C:\Users\luis\source\repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\ref\TemplateArqDDD.Transversal.Common.dll
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\bin\Debug\net6.0\TemplateArqDDD.Transversal.Common.deps.json
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\bin\Debug\net6.0\TemplateArqDDD.Transversal.Common.dll
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\bin\Debug\net6.0\ref\TemplateArqDDD.Transversal.Common.dll
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\bin\Debug\net6.0\TemplateArqDDD.Transversal.Common.pdb
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.AssemblyInfo.cs
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.dll
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\ref\TemplateArqDDD.Transversal.Common.dll
+C:\Users\LuisD\Source\Repos\TemplateArqDDD\TemplateArqDDD.Transversal.Common\obj\Debug\net6.0\TemplateArqDDD.Transversal.Common.pdb

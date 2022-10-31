@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Servicio.WebApi\\TemplateArqDDD.Servicio.WebApi.csproj": {}
+    "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Servicio.WebApi\\TemplateArqDDD.Servicio.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Core\\TemplateArqDDD.Aplicacion.Core.csproj": {
+    "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Core\\TemplateArqDDD.Aplicacion.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Core\\TemplateArqDDD.Aplicacion.Core.csproj",
+        "projectUniqueName": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Core\\TemplateArqDDD.Aplicacion.Core.csproj",
         "projectName": "TemplateArqDDD.Aplicacion.Core",
-        "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Core\\TemplateArqDDD.Aplicacion.Core.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Core\\obj\\",
+        "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Core\\TemplateArqDDD.Aplicacion.Core.csproj",
+        "packagesPath": "C:\\Users\\LuisD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LuisD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,24 +26,23 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj"
               }
             }
           }
@@ -69,8 +68,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -79,24 +77,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj": {
+    "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj",
+        "projectUniqueName": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj",
         "projectName": "TemplateArqDDD.Aplicacion.Entidad",
-        "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\obj\\",
+        "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj",
+        "packagesPath": "C:\\Users\\LuisD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LuisD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -105,7 +103,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -129,8 +126,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -139,24 +135,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj": {
+    "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj",
         "projectName": "TemplateArqDDD.Aplicacion.Interface",
-        "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\obj\\",
+        "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj",
+        "packagesPath": "C:\\Users\\LuisD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LuisD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -165,18 +161,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj"
               }
             }
           }
@@ -196,8 +191,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -206,24 +200,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Core\\TemplateArqDDD.Dominio.Core.csproj": {
+    "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Core\\TemplateArqDDD.Dominio.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Core\\TemplateArqDDD.Dominio.Core.csproj",
+        "projectUniqueName": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Core\\TemplateArqDDD.Dominio.Core.csproj",
         "projectName": "TemplateArqDDD.Dominio.Core",
-        "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Core\\TemplateArqDDD.Dominio.Core.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Core\\obj\\",
+        "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Core\\TemplateArqDDD.Dominio.Core.csproj",
+        "packagesPath": "C:\\Users\\LuisD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LuisD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -232,21 +226,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj"
               }
             }
           }
@@ -266,8 +259,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -276,24 +268,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
+    "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj",
+        "projectUniqueName": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj",
         "projectName": "TemplateArqDDD.Dominio.Entidad",
-        "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\obj\\",
+        "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj",
+        "packagesPath": "C:\\Users\\LuisD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LuisD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -302,7 +294,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -326,8 +317,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -336,24 +326,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj": {
+    "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj",
         "projectName": "TemplateArqDDD.Dominio.Interface",
-        "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\obj\\",
+        "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj",
+        "packagesPath": "C:\\Users\\LuisD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LuisD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -362,15 +352,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj"
               }
             }
           }
@@ -390,8 +379,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -400,24 +388,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Core\\TemplateArqDDD.Infraestructura.Core.csproj": {
+    "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Core\\TemplateArqDDD.Infraestructura.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Core\\TemplateArqDDD.Infraestructura.Core.csproj",
+        "projectUniqueName": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Core\\TemplateArqDDD.Infraestructura.Core.csproj",
         "projectName": "TemplateArqDDD.Infraestructura.Core",
-        "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Core\\TemplateArqDDD.Infraestructura.Core.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Core\\obj\\",
+        "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Core\\TemplateArqDDD.Infraestructura.Core.csproj",
+        "packagesPath": "C:\\Users\\LuisD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LuisD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -426,21 +414,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj"
               }
             }
           }
@@ -466,8 +453,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -476,24 +462,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Entidad\\TemplateArqDDD.Infraestructura.Entidad.csproj": {
+    "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Entidad\\TemplateArqDDD.Infraestructura.Entidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Entidad\\TemplateArqDDD.Infraestructura.Entidad.csproj",
+        "projectUniqueName": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Entidad\\TemplateArqDDD.Infraestructura.Entidad.csproj",
         "projectName": "TemplateArqDDD.Infraestructura.Entidad",
-        "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Entidad\\TemplateArqDDD.Infraestructura.Entidad.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Entidad\\obj\\",
+        "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Entidad\\TemplateArqDDD.Infraestructura.Entidad.csproj",
+        "packagesPath": "C:\\Users\\LuisD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Entidad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LuisD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -502,15 +488,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj"
               }
             }
           }
@@ -544,8 +529,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -554,24 +538,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj": {
+    "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj",
         "projectName": "TemplateArqDDD.Infraestructura.Interface",
-        "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\obj\\",
+        "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj",
+        "packagesPath": "C:\\Users\\LuisD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LuisD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -580,15 +564,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj"
               }
             }
           }
@@ -608,8 +591,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -618,24 +600,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Servicio.WebApi\\TemplateArqDDD.Servicio.WebApi.csproj": {
+    "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Servicio.WebApi\\TemplateArqDDD.Servicio.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Servicio.WebApi\\TemplateArqDDD.Servicio.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Servicio.WebApi\\TemplateArqDDD.Servicio.WebApi.csproj",
         "projectName": "TemplateArqDDD.Servicio.WebApi",
-        "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Servicio.WebApi\\TemplateArqDDD.Servicio.WebApi.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Servicio.WebApi\\obj\\",
+        "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Servicio.WebApi\\TemplateArqDDD.Servicio.WebApi.csproj",
+        "packagesPath": "C:\\Users\\LuisD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Servicio.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LuisD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -644,45 +626,44 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Core\\TemplateArqDDD.Aplicacion.Core.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Core\\TemplateArqDDD.Aplicacion.Core.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Core\\TemplateArqDDD.Aplicacion.Core.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Core\\TemplateArqDDD.Aplicacion.Core.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Interface\\TemplateArqDDD.Aplicacion.Interface.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Core\\TemplateArqDDD.Dominio.Core.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Core\\TemplateArqDDD.Dominio.Core.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Core\\TemplateArqDDD.Dominio.Core.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Core\\TemplateArqDDD.Dominio.Core.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Interface\\TemplateArqDDD.Dominio.Interface.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Core\\TemplateArqDDD.Infraestructura.Core.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Core\\TemplateArqDDD.Infraestructura.Core.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Core\\TemplateArqDDD.Infraestructura.Core.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Core\\TemplateArqDDD.Infraestructura.Core.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Entidad\\TemplateArqDDD.Infraestructura.Entidad.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Entidad\\TemplateArqDDD.Infraestructura.Entidad.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Entidad\\TemplateArqDDD.Infraestructura.Entidad.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Entidad\\TemplateArqDDD.Infraestructura.Entidad.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Infraestructura.Interface\\TemplateArqDDD.Infraestructura.Interface.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Mapper\\TemplateArqDDD.Transversal.Mapper.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Mapper\\TemplateArqDDD.Transversal.Mapper.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Mapper\\TemplateArqDDD.Transversal.Mapper.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Mapper\\TemplateArqDDD.Transversal.Mapper.csproj"
               }
             }
           }
@@ -717,6 +698,10 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -740,8 +725,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -753,24 +737,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj": {
+    "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj",
+        "projectUniqueName": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj",
         "projectName": "TemplateArqDDD.Transversal.Common",
-        "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\obj\\",
+        "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\TemplateArqDDD.Transversal.Common.csproj",
+        "packagesPath": "C:\\Users\\LuisD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LuisD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -779,7 +763,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -809,8 +792,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -819,24 +801,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Mapper\\TemplateArqDDD.Transversal.Mapper.csproj": {
+    "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Mapper\\TemplateArqDDD.Transversal.Mapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Mapper\\TemplateArqDDD.Transversal.Mapper.csproj",
+        "projectUniqueName": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Mapper\\TemplateArqDDD.Transversal.Mapper.csproj",
         "projectName": "TemplateArqDDD.Transversal.Mapper",
-        "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Mapper\\TemplateArqDDD.Transversal.Mapper.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Mapper\\obj\\",
+        "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Mapper\\TemplateArqDDD.Transversal.Mapper.csproj",
+        "packagesPath": "C:\\Users\\LuisD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Transversal.Mapper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LuisD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -845,18 +827,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Entidad\\TemplateArqDDD.Aplicacion.Entidad.csproj"
               },
-              "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
-                "projectPath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj"
+              "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj": {
+                "projectPath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Dominio.Entidad\\TemplateArqDDD.Dominio.Entidad.csproj"
               }
             }
           }
@@ -882,8 +863,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -892,7 +872,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

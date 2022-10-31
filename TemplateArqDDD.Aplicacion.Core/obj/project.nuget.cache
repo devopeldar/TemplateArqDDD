@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YtysIUtzuXBTeCNIeS4CDgpNDFzifCNZgN8lNrydEro2TvN3aSnN1fYywp/CCurXFrDFdSb7l/2Ht4zu0OcDVg==",
+  "dgSpecHash": "5a52qP6JSFXfKqpCEDtrWraK13zXMuo8b0imv3klyY9BkPOfDj2PnZlzrmZ4dlbZ4a8F9dIc3MZgyP+90KAaoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luis\\source\\repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Core\\TemplateArqDDD.Aplicacion.Core.csproj",
+  "projectFilePath": "C:\\Users\\LuisD\\Source\\Repos\\TemplateArqDDD\\TemplateArqDDD.Aplicacion.Core\\TemplateArqDDD.Aplicacion.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\luis\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
-    "C:\\Users\\luis\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
-    "C:\\Users\\luis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\LuisD\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\LuisD\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\LuisD\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
