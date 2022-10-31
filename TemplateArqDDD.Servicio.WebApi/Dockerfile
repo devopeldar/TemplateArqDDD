@@ -31,5 +31,5 @@ WORKDIR /app
 COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "TemplateArqDDD.Servicio.WebApi.dll"]
 
-#docker image build -t devopeldar/templatearqddd4990:1.0.0 -f "TemplateArqDDD.Servicio.WebApi\Dockerfile" .
+#docker image build -t devopeldar/templatearqddd4990:1.0.1 -f "TemplateArqDDD.Servicio.WebApi\Dockerfile" .
 #docker push devopeldar/TemplateArqDDD4990:1.0.0
